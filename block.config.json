@@ -1,0 +1,21 @@
+{
+  "blockId": "tYtz7io3KaSl1XEZ7bTlq",
+  "name": "testFunction2",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/Athuln/testPackage90.git",
+    "ssh": "git@github.com:Athuln/testPackage90.git",
+    "branch": "block_testFunction2"
+  },
+  "parentBlockIDs": [
+    "Rdacr0cnZ1x40vy5doNvh",
+    "yPDp7vbx_Jnl5Bl8yucLd"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
