@@ -1,0 +1,24 @@
+{
+  "name": "testPackage90",
+  "type": "package",
+  "blockId": "Rdacr0cnZ1x40vy5doNvh",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_testPackage90"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "testPackage90Pack": {
+      "directory": "testPackage90Pack"
+    },
+    "testFunction1": {
+      "directory": "testFunction1"
+    }
+  }
+}
