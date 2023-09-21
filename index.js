@@ -18,7 +18,7 @@ const handler = async (event) => {
   }
 
   // Add your code here
-  res.write(JSON.stringify({success: true, msg: `Happy Hacking`}))
+  res.write(JSON.stringify({success: true, msg: `This is the test function 1`}))
   res.end()
   
 }
