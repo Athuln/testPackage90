@@ -17,7 +17,11 @@
   "isPublic": true,
   "dependencies": {
     "testFunction2": {
-      "directory": "testFunction2"
+      "directory": "testFunction2",
+      "versionId": "wGMbZAxWAeEIfj1zgHuHy",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.2",
+  "versionId": "OkRWqKhKNEg-EC1LFs-el"
 }
