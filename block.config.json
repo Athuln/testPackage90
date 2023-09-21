@@ -15,10 +15,16 @@
   "repoType": "mono",
   "dependencies": {
     "testPackage90Pack": {
-      "directory": "testPackage90Pack"
+      "directory": "testPackage90Pack",
+      "versionId": "TmUUptqHa-MpsKNqp__19",
+      "version": "0.0.1"
     },
     "testFunction1": {
-      "directory": "testFunction1"
+      "directory": "testFunction1",
+      "versionId": "3oDi1byy-9FZHwIoaydqr",
+      "version": "0.0.2"
     }
-  }
+  },
+  "version": "0.0.2",
+  "versionId": "7heXafP7mCC8XFyvyctjc"
 }
