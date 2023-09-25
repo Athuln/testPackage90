@@ -1,7 +1,7 @@
 
 /**
  * @swagger
- * /testfunction2:
+ * /testPackage90Pack/testfunction2:
  *   post:
  *     summary: Retrieve a list of JSONPlaceholder users for test function 2
  *     description: Retrieve a list of users from JSONPlaceholder. Can be used to populate a list of fake users when prototyping or testing an API.
